@@ -1,2 +1,2 @@
 # weather-app
-An application for checking the weather
+An application for checking the weather.
