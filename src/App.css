@@ -1,0 +1,12 @@
+.weather-app {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  /* background-image: ; */
+}
+
+@media (max-width: 500px) {
+  .weather-app {
+    font-size: 0.8em;
+  }
+}
